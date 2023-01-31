@@ -40,8 +40,8 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-char comm[]="Hello how are you I am doing good. - My name is adarsh\r\n";
-char comm1[]="Namaste this is Bengaluru.\r\n";
+char comm[]="Hello , Azure RTOS\r\n";
+char comm1[]="Welcome\r\n";
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
